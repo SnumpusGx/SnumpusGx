@@ -3,7 +3,7 @@
 <p align='center'>
 
  <a href='https://discord.gg/qTHnPytZpw'>
-     <img src="https://img.shields.io/discord/264051039207030784?color=5865f2&label=%2Fanimesnight&logo=discord&logoColor=fff&style=for-the-badge" />
+     <img src="https://img.shields.io/discord/264051039207030784?color=5865f2&label=Anime's%20Night&logo=discord&logoColor=fff&style=for-the-badge" />
  </a>
  </p>
  
