@@ -8,8 +8,8 @@
  </p>
  
  <p align='center'>
-  <a href='https://discord.com/invite/hb5HXx4zq3'>
-    <img src="https://img.shields.io/discord/264051039207030784?color=5865f2&label=Comunidade%20RK%20Play&logo=discord&logoColor=fff&style=for-the-badge" />
+  <a href='https://discord.com/invite/escoteiros'>
+    <img src="https://img.shields.io/discord/783381741686620173?color=5865f2&label=Comunidade%20RK%20Play&logo=discord&logoColor=fff&style=for-the-badge" />
   </a>
 </p>
 <p align='center'>
