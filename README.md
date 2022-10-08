@@ -9,7 +9,7 @@
  
  <p align='center'>
   <a href='https://discord.com/invite/escoteiros'>
-    <img src="https://img.shields.io/discord/783381741686620173?color=5865f2&label=Comunidade%20RK%20Play&logo=discord&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/discord/783381741686620173?color=5865f2&label=Comunidade%20Escoteiroslogo=discord&logoColor=fff&style=for-the-badge" />
   </a>
 </p>
 <p align='center'>
