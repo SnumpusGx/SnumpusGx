@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/discord/783381741686620173?color=5865f2&label=Comunidade%20Escoteiros&logo=discord&logoColor=fff&style=for-the-badge" />
   </a>
 </p>
+
 <p align='center'>
  <a href="http://discord.com/users/931933669432651838">
  <img src="http://lanyard.cnrad.dev/api/931933669432651838" />
@@ -19,4 +20,7 @@
 </p>
 
 ---
-> Still trying to get some idea of ​​what to put here
+## About me
+David, 16 years;
+Admin of [Anime's Night](https://discord.gg/qTHnPytZpw);
+Volunteer Moderator of [Comunidade Escoteiros](http://discord.gg/escoteiros);
