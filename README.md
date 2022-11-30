@@ -20,7 +20,3 @@
 </p>
 
 ---
-## About me
-David, 16 years;
-Admin of [Anime's Night](https://discord.gg/qTHnPytZpw);
-Volunteer Moderator of [Comunidade Escoteiros](http://discord.gg/escoteiros);
