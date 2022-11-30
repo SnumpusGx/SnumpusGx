@@ -14,8 +14,8 @@
  
 ## About me
 
-- Lead at @ [ModClub](https://discord.gg/BE7VYwN3wY)
-- Admin @ [Anime's Night](https://discord.gg/qTHnPytZpw)
+- Lead at @ [ModClub](http://discord.gg/BE7VYwN3wY)
+- Admin @ [Anime's Night](http://discord.gg/qTHnPytZpw)
 - Volunteer Mod @ [Comunidade Escoteiros](http://discord.gg/escoteiros) & more
 - Node.JS / Discord.JS Developer
 
