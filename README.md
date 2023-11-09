@@ -9,7 +9,7 @@
  
 ## About me
 
-- Lead at @ [⤹🥡⌯ Animes Night™〃 ](http://discord.gg/qTHnPytZpw)
+- Lead @ [⤹🥡⌯ Animes Night™〃 ](http://discord.gg/qTHnPytZpw)
 - Node.JS / Discord.JS Developer
 
 ---
