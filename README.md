@@ -1,15 +1,9 @@
 ## Hello, I am SnumpusGx
 ---
  
-<p align='center'>
- <a href='https://discord.gg/qTHnPytZpw'>
-     <img src="https://img.shields.io/discord/715911059302645802?color=5865f2&label=⤹🥡⌯%20Animes%20Night™〃 &logo=discord&logoColor=fff&style=for-the-badge" />
- </a>
- </p>
- 
 ## About me
 
-- Dev @ [⤹🥡⌯ Animes Night™〃 ](http://discord.gg/qTHnPytZpw)
+- Community Manager
 - Node.JS / Discord.JS Developer
 
 ---
