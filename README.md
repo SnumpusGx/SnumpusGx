@@ -1,5 +1,4 @@
-## 👋 Hi. I am SnumpusGx.
-- Community Manager
+## 👋 Hi. I am SnumpusGx
 - Node.js Developer
 - Learning Front-End / Back-End
 - Creating HTML Applications
